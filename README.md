@@ -20,3 +20,18 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/blog-poster.git
+2. Navigate to the project directory
+3. Install dependencies for both frontend and backend :
+   ```bash
+   npm install
+4. set up your MongoDB database
+5. start backend server :
+   ```bash
+   cd backend
+   npm start
+6. start frontend server :
+   ```bash
+   cd frontend
+   npm start
+7. open the app on your browser :
+   - https://localhost:(your port)
