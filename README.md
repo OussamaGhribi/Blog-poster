@@ -1,7 +1,7 @@
-Blog Poster
+#Blog Poster
 Blog Poster is a blogging platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables users to create, share, and interact with blog posts while fostering community engagement through features like likes and comments.
 
-Features
+#Features
 Create and share blog posts.
 Like and comment on posts to promote interaction.
 Responsive and user-friendly interface for seamless navigation.
@@ -11,19 +11,19 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Installation
 Clone the repository:
-bash
+
 Copier le code
 git clone https://github.com/username/blog-poster.git  
 Navigate to the project directory:
-bash
+
 Copier le code
 cd blog-poster  
 Install dependencies for both frontend and backend:
-bash
+
 Copier le code
 npm install  
 Start the application:
-bash
+
 Copier le code
 npm start  
 Contributing
